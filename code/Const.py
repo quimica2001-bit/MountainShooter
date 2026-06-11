@@ -1,0 +1,15 @@
+
+#C
+COLOR_YELLOW = (255,255,0)
+COLOR_GREEN = (0,255,0)
+
+#M
+MENU_OPTION = ('NEW GAME 1P - COOPERATIVE',
+               'NEW GAME 2P - COMPETITIVE',
+               'SCORE',
+               'EXIT')
+
+
+#W
+WIN_WIDTH = 841
+WIN_HEIGHT = 673
